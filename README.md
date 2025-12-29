@@ -49,13 +49,13 @@ Nakam – Desi streetwear for the city rebel. Quality hoodies, tees, and vibes t
   <div class="card">
     <img src="https://via.placeholder.com/300" alt="Tshirt" />
     <h3>White T‑Shirt</h3>
-    <p>PKR 1,999</p>
+    <p>PKR 1,499</p>
     <button>Add to Cart</button>
   </div>
   <div class="card">
     <img src="https://via.placeholder.com/300" alt="Hoodie" />
     <h3>Oversized Hoodie</h3>
-    <p>PKR 4,499</p>
+    <p>PKR 4,999</p>
     <button>Add to Cart</button>
   </div>
 </section>
